@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Engine | Dragon 9 Sovereign Ecosystem",
+  "description": "Spatial web interface and Blender automation pipeline for the Dragon 9 sovereign framework, powered by antiX Linux nodes and Cloudflare Tunnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
