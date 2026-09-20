@@ -81,7 +81,7 @@ function broadcastStatus() {
       cpu: activeJobId ? 45 + Math.random() * 40 : 5 + Math.random() * 5,
       memory: activeJobId ? 60 + Math.random() * 20 : 15 + Math.random() * 5,
       gpu: activeJobId ? 80 + Math.random() * 15 : 2 + Math.random() * 3,
-      temp: activeJobId ? 65 + Math.random() * 15 : 35 + Math.random() * 5
+      temp: activeJobId ? 72 + Math.random() * 20 : 38 + Math.random() * 5
     },
     queue: renderQueue
   };
